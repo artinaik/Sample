@@ -12,7 +12,7 @@ namespace SampleProj
         {
             Console.WriteLine("Welcome");
             Console.WriteLine("UC1");
-
+            Console.WriteLine("UC2");
 
         }
     }
