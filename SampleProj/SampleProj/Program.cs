@@ -11,6 +11,9 @@ namespace SampleProj
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome");
+            Console.WriteLine("UC1");
+
+
         }
     }
 }
